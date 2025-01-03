@@ -1,0 +1,12 @@
+Команды на один раз для устройства Windows
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+
+
+Команды на один раз для проекта
+git init
+
+
+Команды которые часто пишутся в проекте
+git add .       | Команда копирует и сохраняет в буфер (Невидимый)
+
