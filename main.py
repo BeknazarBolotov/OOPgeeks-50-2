@@ -28,7 +28,6 @@ class Person:
 
 
 
-
 # Объекты класса (экзепляры класса)
 person_first = Person("Бекназар", 16, "Бишкек")
 person_second = Person(name="John Doe", age=33, city="None")
