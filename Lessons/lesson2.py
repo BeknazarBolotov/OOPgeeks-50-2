@@ -13,7 +13,7 @@
 # Родительский класс
 
 
-from hw1 import Hero
+from HW.hw1 import Hero
 
 class ShieldHero(Hero):
     def __init__(self,name, lvl=1, hp=100, mp=100):
