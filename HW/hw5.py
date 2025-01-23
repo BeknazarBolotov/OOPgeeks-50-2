@@ -21,3 +21,4 @@ target = 2
 result = binary_search(numbers, target)
 
 print(f"Индекс числа = {result}")
+
